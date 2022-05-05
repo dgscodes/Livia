@@ -213,3 +213,10 @@ h1 main{
         transform: none; /*Removes the 20px so that the text will be at the normal starting position at the end of the animation.*/
     }
 }
+
+
+.underlining{
+	text-decoration: underline wavy hotpink;
+	color: black;
+	transform-style: inherit;
+}
